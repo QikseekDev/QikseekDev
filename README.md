@@ -16,11 +16,11 @@
 
 Most of the repos here follow the same pattern: I get an idea, build it into something working, then keep iterating if it proves useful. A lot of the work leans toward search, browser control, automation, editor tooling, and small systems that do one job well.
 
-The two places I spend the most time are [InfiniEdit](https://github.com/QikseekDev/InfiniEdit) and [qikseek](https://github.com/QikseekDev/qikseek). InfiniEdit is where the editor-focused work lives, and qikseek is the search side of things.
+The two places I spend the most time are [InfiniEdit](https://github.com/QikseekDev/InfiniEdit) and [qikseek](https://github.com/QikseekDev/search). InfiniEdit is where the editor-focused work lives, and qikseek is the search side of things.
 
 ## What you’ll find here
 
-- Search and proxy tooling like [qikseek](https://github.com/QikseekDev/qikseek), [searxng](https://github.com/QikseekDev/searxng), [proxycors](https://github.com/QikseekDev/proxycors), and [cors-proxy](https://github.com/QikseekDev/cors-proxy)
+- Search and proxy tooling like [qikseek](https://github.com/QikseekDev/search), [searxng](https://github.com/QikseekDev/searxng), [proxycors](https://github.com/QikseekDev/proxycors), and [cors-proxy](https://github.com/QikseekDev/cors-proxy)
 - Browser and web control projects like [web-controller](https://github.com/QikseekDev/web-controller), [WebController](https://github.com/QikseekDev/WebController), [noVNC](https://github.com/QikseekDev/noVNC), and [vnc](https://github.com/QikseekDev/vnc)
 - Editor and app tooling like [InfiniEdit](https://github.com/QikseekDev/InfiniEdit), [studio-lite](https://github.com/QikseekDev/studio-lite), [remote](https://github.com/QikseekDev/remote), and [register](https://github.com/QikseekDev/register)
 - Bots and automation like [bot-front](https://github.com/QikseekDev/bot-front), [Mc-bot](https://github.com/QikseekDev/Mc-bot), [Crash-bot](https://github.com/QikseekDev/Crash-bot), [snake-bot](https://github.com/QikseekDev/snake-bot), and [qikworker](https://github.com/QikseekDev/qikworker)
