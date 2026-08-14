@@ -30,7 +30,7 @@ The two places I spend the most time are [InfiniEdit](https://github.com/Qikseek
 ## A few repos I’d start with
 
 - [InfiniEdit](https://github.com/QikseekDev/InfiniEdit) - the main editor project
-- [qikseek](https://github.com/QikseekDev/qikseek) - the search project
+- [qikseek](https://github.com/QikseekDev/search) - the search project
 - [web-controller](https://github.com/QikseekDev/web-controller) - browser control and automation
 - [snake-bot](https://github.com/QikseekDev/snake-bot) - game logic and automation experiments
 - [searxng](https://github.com/QikseekDev/searxng) - search infrastructure work
